@@ -81,8 +81,6 @@ couponButton.addEventListener('click', () => {
     updatePrice();
 });
 
-
-
 purchaseButton.addEventListener('click', () => {
     itemList = [];
     totalPrice = 0;
